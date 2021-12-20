@@ -7,7 +7,7 @@ To be Organized By Department of ECE at [PEC(Deemed to be university), Chandigar
 [Register](https://forms.gle/2hY9dcXwonmDMZqe6)
 <div align="center">
 
-  ## Course Convenor(s)
+  ## Convenor(s)
 
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Kedia.PNG)
 
