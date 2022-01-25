@@ -1,3 +1,4 @@
+# POSTPONED DUE TO PANDEMIC SITUATION, STAY TUNED FOR UPDATES
 # WORKSHOP_2022_Integrated_Optics 🚀
 
 To be Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://www.pec.ac.in/events/online-short-term-course-integrated-optics) on the occasion of **Centenary Year of Existance** and endorsed by [SPIE-CSIO Chapter](https://spie.org/membership/student-services/student-chapters/student-chapter?chapter_id=1086399&SSO=1)
